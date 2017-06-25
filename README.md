@@ -1,1 +1,3 @@
-# warsztaty_tyg5
+We FrontEndzie JQuery
+
+W BackEndzie Spring

@@ -1,3 +1,5 @@
-We FrontEndzie JQuery
+REST API Workshop
 
-W BackEndzie Spring
+Front-End: JavaScripti, JQuery
+
+Back-End: Spring
